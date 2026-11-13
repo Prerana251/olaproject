@@ -152,16 +152,3 @@ statements.
 
 
 
-## Project Files
-
-  -----------------------------------------------------------------------
-  File                                Description
-  ----------------------------------- -----------------------------------
-  `Bengaluru_Ola_Booking_Data.csv`    Booking dataset with 50,000 records
-                                      and 21 fields
-
-  `Ola_DA_Project.pbix`               Interactive Power BI dashboard
-
-  SQL script                          Queries used for data analysis
-  -----------------------------------------------------------------------
-
