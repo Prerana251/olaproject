@@ -5,10 +5,7 @@ focused on booking trends, ride demand, cancellations, vehicle
 preferences, customer experience, and operational performance in
 Bengaluru.
 
-![Ola Ride Analysis Dashboard](images/ola-dashboard.png)
 
-> Add your Power BI dashboard screenshot to the `images/` folder and
-> name it `ola-dashboard.png` to display it here on GitHub.
 
 ## Project Overview
 
@@ -153,50 +150,7 @@ statements.
 -   **Review booking value patterns:** Use fare bands and payment method
     trends to inform customer offers and operational decisions.
 
-## Repository Structure
 
-``` text
-Ola-Data-Analyst-Project/
-│
-├── README.md
-├── Bengaluru_Ola_Booking_Data.csv
-├── Ola_DA_Project.pbix
-├── [your SQL analysis script].sql
-└── images/
-    └── ola-dashboard.png
-```
-
-Replace `[your SQL analysis script].sql` in the folder tree with the
-exact filename of your SQL script when you upload it.
-
-## How to Run the Project
-
-### 1. Get the files
-
-Clone or download this repository. The CSV dataset and Power BI file
-should be available locally.
-
-### 2. Explore the dataset
-
-Open `Bengaluru_Ola_Booking_Data.csv` in Excel or import it into your
-preferred SQL environment.
-
-### 3. Run the SQL analysis
-
-Open the SQL script in your SQL editor, load the CSV data into a table,
-and adjust the table name or import settings if needed. Run the queries
-to reproduce the booking analysis.
-
-### 4. Open the Power BI dashboard
-
-Open `Ola_DA_Project.pbix` in Power BI Desktop. If Power BI prompts for
-the data source location, point it to `Bengaluru_Ola_Booking_Data.csv`,
-then refresh the model.
-
-### 5. Explore the dashboard
-
-Use the available filters and visuals to investigate booking trends,
-vehicle types, ride status, locations, and customer experience.
 
 ## Project Files
 
@@ -211,8 +165,4 @@ vehicle types, ride status, locations, and customer experience.
   SQL script                          Queries used for data analysis
   -----------------------------------------------------------------------
 
-## Author
 
-**Prerana C**
-
-Business Analytics \| SQL \| Power BI \| Data Analysis
